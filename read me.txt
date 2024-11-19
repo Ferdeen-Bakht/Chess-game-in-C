@@ -1,0 +1,4 @@
+5th iteration is a previous iteration without data structures just
+to describe how the code works as defined in the report.
+
+The 7th iteration contains proper interface and implementation
